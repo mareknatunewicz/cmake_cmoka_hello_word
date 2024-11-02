@@ -1,0 +1,13 @@
+# Example LCOV configuration file
+
+
+# Coverage rate limits for line coverage
+genhtml_hi_limit = 80  # High coverage threshold (default is 50)
+genhtml_med_limit = 60  # Medium coverage threshold (default is 15)
+
+# Coverage rate limits for function coverage
+genhtml_function_hi_limit = 80  # High coverage threshold (default is 90)
+genhtml_function_med_limit = 60  # Medium coverage threshold (default is 75)
+
+# Include color legend in HTML output
+genhtml_legend = 0

@@ -1,0 +1,4 @@
+#add list of folders and files to ingore, 
+unit_tests/unit_tests.c
+unit_tests/module/
+#end file

@@ -1,0 +1,1 @@
+/usr/bin/gcc -lgcov --coverage "CMakeFiles/unit-tests.dir/unit_tests/unit_tests.c.o" "CMakeFiles/unit-tests.dir/unit_tests/module/unit_test_module.c.o" "CMakeFiles/unit-tests.dir/src/module/module.c.o" -o unit-tests  -lcmocka -lgcov 

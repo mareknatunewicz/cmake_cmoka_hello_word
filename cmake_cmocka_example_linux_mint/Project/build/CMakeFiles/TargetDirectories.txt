@@ -1,0 +1,7 @@
+/home/marekn/Documents/cmake_cmocka_example_linux_mint/Project/build/CMakeFiles/unit-tests.dir
+/home/marekn/Documents/cmake_cmocka_example_linux_mint/Project/build/CMakeFiles/edit_cache.dir
+/home/marekn/Documents/cmake_cmocka_example_linux_mint/Project/build/CMakeFiles/rebuild_cache.dir
+/home/marekn/Documents/cmake_cmocka_example_linux_mint/Project/build/unit_tests/module/CMakeFiles/edit_cache.dir
+/home/marekn/Documents/cmake_cmocka_example_linux_mint/Project/build/unit_tests/module/CMakeFiles/rebuild_cache.dir
+/home/marekn/Documents/cmake_cmocka_example_linux_mint/Project/build/src/module/CMakeFiles/edit_cache.dir
+/home/marekn/Documents/cmake_cmocka_example_linux_mint/Project/build/src/module/CMakeFiles/rebuild_cache.dir

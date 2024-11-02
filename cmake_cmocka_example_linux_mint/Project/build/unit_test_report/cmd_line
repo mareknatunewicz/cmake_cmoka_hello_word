@@ -1,0 +1,1 @@
+genhtml --config-file /home/marekn/Documents/cmake_cmocka_example_linux_mint/Project/cmake/lcov.lcovrc coverage.info --output-directory unit_test_report
