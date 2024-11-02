@@ -1,0 +1,1 @@
+# cmake_cmoka_hello_word
